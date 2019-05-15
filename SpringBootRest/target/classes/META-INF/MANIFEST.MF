@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootRest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Anusha_Sama
+Implementation-Vendor-Id: com.javainterviewpoint
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootRe
+ st/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
